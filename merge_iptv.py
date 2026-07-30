@@ -19,12 +19,14 @@ from datetime import datetime
 # 这些源经过测试，从大陆网络可以访问
 CURATED_TW_SOURCES = [
     {"name": "中天新闻", "group": "台湾新闻", "url": "http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv"},
+    {"name": "三立新聞", "group": "台湾新闻", "url": "http://38.64.72.148:80/hls/modn/list/4007/chunklist0.m3u8"},
     {"name": "台視新聞台", "group": "台湾新闻", "url": "http://74.91.26.218:82/live/ttvnews.m3u8"},
     {"name": "台视新闻", "group": "台湾新闻", "url": "http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8"},
     {"name": "民視新聞台", "group": "台湾新闻", "url": "http://74.91.26.218:82/live/ftvnews.m3u8"},
     {"name": "民视新闻台(备用)", "group": "台湾新闻", "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8"},
     {"name": "东森新闻美洲台", "group": "台湾新闻", "url": "http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8"},
     {"name": "TVBS亚洲", "group": "台湾综合", "url": "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8"},
+    {"name": "TVBS亚洲(备用)", "group": "台湾综合", "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8"},
     {"name": "大立電視台", "group": "台湾综合", "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"},
     {"name": "Beautiful Life TV", "group": "台湾综合", "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"},
     {"name": "CGNTV", "group": "台湾综合", "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8"},
