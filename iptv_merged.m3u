@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTENC:UTF-8
 #PLAYLIST: China+Taiwan IPTV (Auto-Updated)
-#Update: 2026-08-07 00:51:31
+#Update: 2026-08-07 20:34:19
 #Total: 80
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13
 http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
