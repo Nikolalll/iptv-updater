@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTENC:UTF-8
 #PLAYLIST: China+Taiwan IPTV (Auto-Updated)
-#Update: 2026-11-13 00:50:30
+#Update: 2026-11-14 00:36:05
 #Total: 80
 #EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10
 http://118.122.144.115:8888/newlive/live/hls/11/live.m3u8
